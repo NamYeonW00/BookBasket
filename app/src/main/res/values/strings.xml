@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MA02_20200963</string>
+    <string name="api_url">https://openapi.naver.com</string>
+    <string name="client_id">kVOuHXJBGRTp84GTEDI1</string>
+    <string name="client_secret">SNEGO7pP5d</string>
+    <string name="api_key">AIzaSyAoZbLKEoVuZF-XDuCl2-81u7yj3RQmq7I</string>
+    <string name="keyword_hint">도서관 or 서점 입력</string>
+    <string name="init_lat">37.604094</string>
+    <string name="init_lng">127.042463</string>
+</resources>
